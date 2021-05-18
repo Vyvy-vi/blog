@@ -1,5 +1,11 @@
 output/
 
+*~
+._*
+*.lock
+*.DS_Store
+*.swp
+*.out
 *.log
 
 .env

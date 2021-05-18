@@ -35,7 +35,7 @@ paginate_path: "/:num"
 date_format: "%b %-d, %Y" 
 
 # Build settings
-theme: minima
+
 plugins:
   - jekyll-feed
   - jekyll-paginate

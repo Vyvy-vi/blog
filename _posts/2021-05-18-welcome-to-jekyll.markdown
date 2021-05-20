@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2021-05-18 16:09:30 +0530
 image: potato_squinting.png
+author: Vyvy-vi
 categories: jekyll update
 ---
 

@@ -13,6 +13,9 @@ layout: default
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}</p>
+      {%- if page.image -%}
+        <img class="w-full object-cover h-full" src= "/assets/img/{{ page.image }}"  alt="{{ page.title }}">
+      {%- endif -%}
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">

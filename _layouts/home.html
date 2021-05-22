@@ -11,11 +11,10 @@ layout: default
 
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
+      <div class="space-y-6">
       {%- for post in site.posts -%}
-      <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <div class="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl">
+        <div class="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl ">
             <div class="md:flex">
                 {%- if post.image -%}
                 <div class="md:flex-shrink-0"><img class="h-48 w-full object-cover md:h-full md:w-48" src= "./assets/img/{{ post.image }}"  alt="{{ post.title }}"></div>
@@ -30,9 +29,23 @@ layout: default
                 </div>
             </div>
         </div>        
-      </li>
+         <div class="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl p-1">
+            <div class="md:flex">
+                {%- if post.image -%}
+                <div class="md:flex-shrink-0"><img class="h-48 w-full object-cover md:h-full md:w-48" src= "./assets/img/{{ post.image }}"  alt="{{ post.title }}"></div>
+                {%- endif -%}
+                <div class="p-8">
+                    <div class="uppercase tracking-wide text-sm text-indigo-500 font-semibold">Jekyll setup</div>
+                    <a href="{{ post.url | relative_url }}" class="block mt-1 text-lg leading-tight font-medium text-black hover:underline">{{ post.title | escape }}</a>
+                    {%- if post.excerpt -%}
+                    <p class="mt-2 text-gray-500">{{ post.excerpt | strip_html }}... <a href="{{ post.url | relative_url }}">Read more</a></p>
+                    {%- endif -%}
+                    <div class="text-sm font-semibold post-meta">{{ post.date | date: date_format }}</div>
+                </div>
+            </div>
+        </div>        
       {%- endfor -%}
-    </ul>
+      </div>
 
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}

@@ -11,7 +11,7 @@ permalink: /category
 </style>
 
 <div class="grid grid-cols-2 gap-4">
-{% assign tags = "jekyll python html community" | split: " " %}
+{% assign tags = "Python Programming Opensource C Wellness Projects" | split: " " %}
 {% for category in site.categories %}
   {% assign cat = category | first %}
   {% case cat %}

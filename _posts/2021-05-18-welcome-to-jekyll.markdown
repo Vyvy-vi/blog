@@ -4,7 +4,8 @@ title:  "Welcome to Jekyll!"
 date:   2021-05-18 16:09:30 +0530
 image: potato_squinting.png
 author: Vyvy-vi
-categories: Projects
+categories: Jekyll
+tags: Jekyll info potato
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.

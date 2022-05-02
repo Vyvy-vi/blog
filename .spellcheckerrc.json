@@ -1,0 +1,14 @@
+{
+  "files": ["content/**/*.md"],
+  "language": "en-GB",
+  "dictionaries": ["./dictionary.txt"],
+  "plugins": [
+    "spell",
+    "indefinite-article",
+    "repeated-words",
+    "syntax-mentions",
+    "syntax-urls",
+    "frontmatter"
+  ],
+  "frontmatterKeys": ["title", "description"]
+}

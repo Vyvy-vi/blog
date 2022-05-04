@@ -1,4 +1,5 @@
 # Contributing
+
 Thank you for showing interest in this project! We appreciate and encourage any and all contributions to the project, however, do keep in mind that it takes some time to get responses on issues and reviews on PRs. Before contributing, have a look at the [CODE of CONDUCT](./CODE_OF_CONDUCT.md) and try to comply by those guidelines.
 
 If you are new to contributing to projects on github, this project follows a certain pattern of development and contributing - [github flow](https://docs.github.com/en/github/getting-started-with-github/github-flow). You could learn more about how to use Github on [Github Labs](https://lab.github.com/) and through the [Github docs](https://docs.github.com/en/github/getting-started-with-github/)
@@ -6,29 +7,34 @@ If you are new to contributing to projects on github, this project follows a cer
 Please ensure all pull requests and contributions comply with the [Developer Certificate of Origin](https://developercertificate.org/).
 
 ## Setting up the project
+
 First, [fork this repository](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) to your own account. Then use `git clone <forked-repo-url>` to clone your forked repository down to your local machine (remember to get the URL for _your_ repository - the fork, not the original repository).
 Use `git remote add upstream <original-repo-url>` to add the original repository as the upstream (this is helpful for keeping your fork up-to-date).
 
 ## Feedback, Bug Reports, Issues - How to open issues?
+
 If you have any feedback, bug reports, feature request or ideas, feel free to [open an issue](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue) on the project's repository. We love issues! ;D
 Please, try not to duplicate issues and always try to give enough context in the issues that you open.
 You could use some of the issues templates to make better structured issues with relevant labels.
 
 ## Claiming an Issue
+
 All of the issues on this repo are open to contributors! If you see an open issue you would like to work on, please comment on the issue so that you may get assigned to it.
 
 > NOTE: Assigned issues that have not had any activity in 2 weeks will be unassigned.
 
 If an issue is already assigned, please look for another issue to contribute to, or open an issue that you could work on and adds value to the project. We use labels to help categorise issues:
+
 - `good first issue` - These issues require minimal familiarity with our codebase. Please reserve these for first-time contributors.
 - `help wanted` - These issues are open to any contributors.
 - `staff only` - These issues are locked to project maintainers/collaborators. Pull requests on these issues will not be accepted from outside contributors.
 
 ## Working on your issue
+
 This project follows a certain development and contribution pattern([github-flow](https://docs.github.com/en/github/getting-started-with-github/github-flow)). If you have any confussion at any step in the process, refer to [Github docs](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests) and feel free to comment on your assigned issue if you have any questions, doubts or need any help. (Do note that it might take some time to get help on the issues. It is highly suggested, that you ask help on [EddieHub's Everyone Helps Everyone forum](https://github.com/EddieHubCommunity/support/discussions/categories/q-a) or [freeCodeCamp's forum](https://forum.freecodecamp.org/), if you would prefer a quicker help response)
 
-
 ### Syncing your fork with the project
+
 Before starting any work, it is highly recommended that you ensure that your forked version of the repo is up to date. If you set the upstream as mentioned in [Setting Up The Project](#setting-up-the-project), run these commands in your terminal (with the terminal pointed at the root directory of your local files):
 
 - Switch to the `main` branch:
@@ -47,16 +53,19 @@ Before starting any work, it is highly recommended that you ensure that your for
   ```css
   git push -f
   ```
-> NOTE: Before you do the above, keep in mind that you will lose any changes you are currently working on. Do this with care.
+  > NOTE: Before you do the above, keep in mind that you will lose any changes you are currently working on. Do this with care.
 
 **If you are working on small changes directly on Github's UI**, you could also consider [using the `Fetch Upstream` button on Github's UI](https://twitter.com/i/status/1390382527588798477)
 
 ### Creating a new branch
+
 Before making code changes, it would be great and more manageable for you and the maintainers, if you create a new branch and make changes in that branch. It's always a good idea to avoid committing changes directly to your `main` branch - this keeps it clean and avoids errors when updating (above).
 You could use this command to create and switch to a new branch -
+
 ```rb
-git checkout -b <branchname> 
+git checkout -b <branchname>
 ```
+
 (Alternatively, you could also make a branch on github's UI and use `git fetch` and `git checkout <branch-name>` to switch to the created branch)
 
 Branch names should follow a convention of `type/issue/description` where:
@@ -70,6 +79,7 @@ Example - `docs/3/update=contribs`, when working on docs to update contributors 
 After this, you could start working on your code :D
 
 ### Commit Message Guidelines
+
 Now you are free to work on your code! When you are satisfied with your changes, you can commit them with `git commit -s -m "message"`, where:
 
 - `-s` flag signs the commit, to verify the connection with your GitHub account.
@@ -80,17 +90,19 @@ While writing the commit message, kindly try to be brief(if you want to add more
 
 We prefer to follow a certain commit message styling format in order to make the commits easily readable, by people as well as automations. You could refer to [Conventional Commits specification](https://www.conventionalcommits.org/en/v1.0.0/) for more information about the format.
 
-
 All commit messages should follow this format- `<type>(optional scope): <description>`
 (The scope can be skipped, in order to make the commit message more succint)
 Examples-
+
 ```
 docs: update project links
 feat: set up project
 feat(deploy): deployment config
 fix: fix website crash bug
 ```
+
 **Type** - The type could be one of the following:
+
 - `fix`: bug patches, typo and lint corrections
 - `feat`: introduce new features to the codebase
 - `docs`: for documentation and README/CONTRIBUTING changes
@@ -98,6 +110,7 @@ fix: fix website crash bug
 - `chore`: project config, maintainance
 
 ## Submitting a Pull Request
+
 Once you have all of your changes made and committed, you can push them to your forked repository! Use `git push -u origin <branchname>`, where:
 
 - `-u` tells `git` to set the upstream (see below)
@@ -113,6 +126,7 @@ First, change the title of the pull request to match your branch name (following
 Congratulations! You've submitted your first pull request! It will be reviewed as quickly as possible, so keep an eye out for comments, approvals (or requested changes).
 
 ## Contributing in other ways
+
 If you aren't comfortable with the codebase, or would like to contribute in other ways, we have options for that!
 We like and appreciate good contributions of any kind!
 
@@ -122,4 +136,3 @@ We like and appreciate good contributions of any kind!
 - Bug Reports: We rely on our users to help identify bugs - if you see something wrong, please let us know with an issue!
 - Dropping reviews: If you want, you could also contribute by reviewing pull requests. (If you aren't familiar with the codebase, you could still drop reviews on documentation updates)
 - Legal Advice: If you are someone with legal knowledge/experience, you could contribute to the project by maybe going through the [CODE OF CONDUCT](./CODE_OF_CONDUCT.md) and Privacy or Usage Policies. Help in this area is really really appreciated.
-

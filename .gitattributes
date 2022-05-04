@@ -19,8 +19,8 @@
 *.ipynb  text
 *.ts     text
 *.du     text
-
-*.go    -text diff=golang
+*.js     text diff=javascript
+*.go     text diff=golang
 
 ################
 # Binary files #

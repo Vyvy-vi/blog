@@ -55,12 +55,6 @@ const BlogPostTemplate = ({ data, location }) => {
             {next && (
               <Link to={next.fields.slug} rel="next">
                 {next.frontmatter.title} →
-...skipping...
-          </li>
-          <li>
-            {next && (
-              <Link to={next.fields.slug} rel="next">
-                {next.frontmatter.title} →
               </Link>
             )}
           </li>
@@ -111,4 +105,3 @@ export const pageQuery = graphql`
     }
   }
 `;
-

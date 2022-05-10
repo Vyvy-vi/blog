@@ -1,23 +1,39 @@
-import * as React from "react"
-import { Link } from "gatsby"
+import * as React from "react";
+import { useStaticQuery, graphql } from "gatsby";
+import { Link } from "gatsby";
 
-const Layout = ({ location, title, children }) => {
-  const rootPath = `${__PATH_PREFIX__}/`
-  const isRootPath = location.pathname === rootPath
-  let header
+const Layout = ({ location, children, title }) => {
+  const rootPath = `${__PATH_PREFIX__}/`;
+  const isRootPath = location.pathname === rootPath;
+  let header;
+
+  const data = useStaticQuery(graphql`
+    query CopyrighQuery {
+      site {
+        siteMetadata {
+          author {
+            name
+          }
+          blogEpoch
+        }
+      }
+    }
+  `);
+  const author = data.site.siteMetadata?.author?.name || "Anonymous";
+  const blogEpoch = new Date(data.site.siteMetadata?.blogEpoch);
 
   if (isRootPath) {
     header = (
       <h1 className="main-heading">
         <Link to="/">{title}</Link>
       </h1>
-    )
+    );
   } else {
     header = (
       <Link className="header-link-home" to="/">
         {title}
       </Link>
-    )
+    );
   }
 
   return (
@@ -25,12 +41,16 @@ const Layout = ({ location, title, children }) => {
       <header className="global-header">{header}</header>
       <main>{children}</main>
       <footer>
-        © {new Date().getFullYear()}, Built with
+        &copy; {blogEpoch.getFullYear()}
+        {new Date().getFullYear() > blogEpoch.getFullYear()
+          ? `-${new Date().getFullYear()}`
+          : ""}
+        , {author}, Built with
         {` `}
         <a href="https://www.gatsbyjs.com">Gatsby</a>
       </footer>
     </div>
-  )
-}
+  );
+};
 
-export default Layout
+export default Layout;

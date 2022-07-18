@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Vy's Blog RSS Feed]]></title><description><![CDATA[A blog posted and maintained by the illustrious internet potato.]]></description><link>https://blog.vyvy-vi.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 18 Jul 2022 07:55:22 GMT</lastBuildDate><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Well, Hello World! Here’s my blog and I don’t really know how to start it. I’ve been thinking about writing one for almost a year; even…]]></description><link>https://blog.vyvy-vi.com/new-beginnings/</link><guid isPermaLink="false">https://blog.vyvy-vi.com/new-beginnings/</guid><pubDate>Sun, 17 Jul 2022 13:10:12 GMT</pubDate><content:encoded>&lt;p&gt;Well, Hello World! Here’s my blog and I don’t really know how to start it.&lt;/p&gt;
+&lt;p&gt;I’ve been thinking about writing one for almost a year; even drafted a few posts, but never got around to completing them or posting them.
+Have you ever had that feeling: that surge of inspiration and determination you get when you decide to pick up something that interests you, but all that fades away as any time you try to do it, it isn’t perfect as you’d like it to be?&lt;/p&gt;
+&lt;p&gt;Yes, that’s me with most things. And I really need to change. I’ve decided to use this blog as my &lt;strong&gt;accountability ledger&lt;/strong&gt; and to keep trying to get things done instead of trying to get things done the &lt;em&gt;right way&lt;/em&gt;. Idk how many people are gonna read this, but writing down things in a ranty-conversational format seems like a good reality check for future-me and if reading these blog posts helps someone else, I’d be really happy, even if it’s just for an audience of 1.&lt;/p&gt;
+&lt;h2&gt;What made me want to change things?&lt;/h2&gt;
+&lt;p&gt;I’ve been a member of many online communities for the past 2 years and I’ve noticed how much people have grown and I’m very inspired by people who are trying so many new things in amore public and open atmosphere, working to break into tech, while helping so many people that are just starting out. Many of them have made massive leaps and have moved on to do great things. I want to be like them. I want to be more open to trying new things and learn, grow, and share on a more public platform.&lt;/p&gt;
+&lt;p&gt;I’m quite introverted and I’ve always refrained from speaking in public, even though my diction and pronunciation haven’t ever been bad. It’s more like an ‘inertia of confidence’: I’ve never been comfortable about speaking in public, so I’ve never done it. In the past year, I’ve been participating not only in speaking at public-speaking events, but also organising and moderating such sessions at &lt;a href=&quot;https://www.eddiehub.org/&quot;&gt;EddieHub&lt;/a&gt;: My favourite open source community. These sessions provided a safe-space where I could engage in conversation with other people without worrying about every little detail that can go wrong.&lt;/p&gt;
+&lt;p&gt;Recently, I was selected to participate in the &lt;a href=&quot;https://www.eddiehub.org/ambassador-program&quot;&gt;EddieHub Ambassador programme&lt;/a&gt;, and I’m just delighted by how the program is intended to nudge and support the ambassadors to become more engaged in content creation and community development. All the advice that Eddie, Sara and the other Ambassadors have shared with the has given me a better idea about how I can embark on this journey, and I feel greatful for the extra accountability that I can start complying with.&lt;/p&gt;
+&lt;h2&gt;Things I want to do in what remains of this year (2022)&lt;/h2&gt;
+&lt;p&gt;This is certainly not an exhaustive list, and may keep growing in size as time passes, but I think it’s a good place to start.&lt;/p&gt;
+&lt;ul class=&quot;contains-task-list&quot;&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; Teach a programming concept to a group of people.&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; Host a Twitter Space.&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; Make a Tutorial video or a Casual programming video that is longer than 5 minutes.&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; Write a blog post on “why working with microprocessors can be interesting for a CS student”.&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; Write a blog post on “why many student communities need an attitude change”&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; Write a blog post roughly every month.&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; Write a blog post on my developer-journey so far.&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; Bring back my old discord bot project - &lt;strong&gt;TearDrops&lt;/strong&gt;, and add following features to it:
+&lt;ul class=&quot;contains-task-list&quot;&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; Improved currency system, where users are given credits(tears) based on sentiment analysis(sadder messages == more tears)&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; A time formatter&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; A poll command&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; A tear-themed discord-bot-based game&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; *Try messing around with linking GPT-J and random messages on discord to get a conversational response from the bot (&lt;em&gt;maybe&lt;/em&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; Make some good friends at university&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; Give one in-person talk on any topic&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; Start working on two of my projects from my project-ideas pile&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; Make a simple compiler&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; Start making “projects-for-learning-something” more public&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; * Research ways to make a plugin that can check blog posts for total plagiarism and link users to original blog post (&lt;em&gt;maybe&lt;/em&gt;)&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; Make a portfolio website for myself.&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; Visit an in-person hackathon or meetup and distribute my rainbow emoji stickers (without feeling embarresed)&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; Focus a little bit on health - more exercises, fewer donuts, more screen-breaks, fewer 4-hour-work-sessions, more running, fewer dine-outs.&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; Try participating in more hackathons.&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; Try to do one or two live-coding events or challenges.&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; Try to meet more people in-person.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Things I want to add to this blog&lt;/h2&gt;
+&lt;ul class=&quot;contains-task-list&quot;&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; Categories&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; Pinned Posts&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; Previous - Next buttons&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; Comments Plugin&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; Light Mode (yes. people that use it exist. it isn’t bad. don’t judge people if they use it.)&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; More Accessibility(testing if the blog is accessible, adding audio version for blogs, theme-switcher with accessibly options, image alt tag checker, etc.)&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; Home page redisign&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; *A log section: My daily standup (&lt;em&gt;maybe&lt;/em&gt;)&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; More Potatoes…&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Final thoughts&lt;/h2&gt;
+&lt;p&gt;Welp, a new chapter begins. I really hope that this blog adds value to me as well as other people. Special thanks to &lt;a href=&quot;https://www.naomi.lgbt/&quot;&gt;Naomi Carrigan&lt;/a&gt; for suggesting &lt;a href=&quot;https://www.gatsbyjs.com/starters/gatsbyjs/gatsby-starter-blog/&quot;&gt;Gatsby’s blog starter&lt;/a&gt; when I was stuck between multiple choices for a SSR.&lt;/p&gt;
+&lt;p&gt;If you find any bugs while using the blogs, please make an issue on my &lt;a href=&quot;https://github.com/Vyvy-vi/blog&quot;&gt;repo&lt;/a&gt;. If you have any issues with the content hosted on this website, please email me at &lt;a href=&quot;mailto:vyom.j@protonmail.com&quot;&gt;vyom.j@protonmail.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you want to steal the content from this blog, without permission and without attribution, to present it as your own…
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/dde15a64496081b94f15a82cdcb7219d/d9199/i-will-find-you-and-dmca-you.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 90.50632911392405%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAYAAABb0P4QAAAACXBIWXMAABYlAAAWJQFJUiTwAAAES0lEQVQ4yz2U3W8UZRSHB9jt7sy878x+z87uzuzsdre7ZUWaov0AwSig+BFUTGxJI2krgQuDNiG0NkD5ELEWSgglKaZAoFxQ+ahiICGI5YKb3iH1VgIJf8hjZkq4eHLmPe+c3++c9+IoQgi2bt3K8PAwhw4dYs+ePXR3d7Nz507GxsaCfF9fH/39/YyOjjI0NMThw4fZvn07+/fvZ2RkJIh79+4lHA6jpNOZILm0tMSL5y949OgRExMTnD59mhfPn/Py5UuuXLnKsWPHePLkCUtPl3j23zOmp6e5dOkSS0v/8vSfpxw9epRVq0IosZQk51q45TzlFpdqvYxX9jBicTJ2HtdzyXtZzLSgWHHwqkWKVRenlMNIaHgVh3qjQraQRjejKJmCScIWxDIaZjpKk97EylAITagYZpSwFiYim4hlNUQqgp5SEWkVIxMN6sy0ikxFiFsayZxESdoSn5QtiVsCVejYlqCrNcmODSW6GhnMuF+ok7TFKyTJrCCZ9euM1/hnJZEVgXrC1jGSAt1QaWuWfNKe4auNZT7tsMllBbGUIO0LWYKUL5SVpLOSjC2x8gZ2YRnFd0pYOsmsjpnSEaaKm9N5px6no2qyriVBZ2uCdY0cWzo9Co6BlRPYBRlQcCSuKyi6BsWiRAncrGXHpCWJJzUKWZWuWorvP6jz7ZYq29Ym6X23haEdb7O2nsTO6ziODPBcQakoX6OkbUE6K8jYInC2bJ01JUlbSbJrU5VvNrk0ioKNjTzffdbBR50ubkGjVHwl5ErKrqDZNSgXDZRCQccpaDh+dASuo+Pmdco5lY31LL3rHSquSUiNsLmjRP+2Nyg7EsvSKOQFFU9SfUWzL1j3BPWSoO7JZUqC1rJkdUnycVuWbe05Mmk1eNtSXjDwYZ0tbzmEVZWwppPJCGolX1DQXBQo7S0m7TWD5RijuxGj7hkIQ8PLCUo5Dc9WiZkaIVWlxY3RqKSJ6HpAk+ZPJKmVDSqeQHn/zQTvrYnjx81rE9RdSTgaZUVExTRU6o4kEYvQpKqEVI2VkSgrmqKEVY2IphGKasQTgtXNJi2egfJ5R4YvOi2+7LKouWbwc1TIwF2VkqiuE5UGEV3Q5Hel6cs5XSx3GZw1aiWTRsVA6dlg07cpz/rWJNO/zvD3wgIPHjxgeGSEH0+cYHFxkfv37zM1NcXXu3YFC8K/v3HjBv2Dg0yeOUNY1UkkdNpqJoqT0rDNEEKLMP7LBLNXr3Lx4kUGBgfp6enht7k5Tp06FWyf3t7eYMNcvnyZ8+fPs3v3bo4fP46QEkVRiBkqyomffub3O39y+/Y8U+fOceDAAfbt28fNmze5du0aJ0+e5Pr168zOzga5+fl5xsfHOXjwYNDlhQsXOHv2bPA98sMoytTUOR4+/Is7d/7g1q1bQScDAwM8fvw4GHVmZiYYcW5uLrhfWFgIBHzRu3fvMjk5GXR57949jhwZ43/HIGZfn94pUwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Liam Neeson from Taken saying I will find your post and I will mail a DMCA Takedown Notice&quot;
+        title=&quot;Liam Neeson from Taken saying I will find your post and I will mail a DMCA Takedown Notice&quot;
+        src=&quot;/static/dde15a64496081b94f15a82cdcb7219d/f058b/i-will-find-you-and-dmca-you.png&quot;
+        srcset=&quot;/static/dde15a64496081b94f15a82cdcb7219d/c26ae/i-will-find-you-and-dmca-you.png 158w,
+/static/dde15a64496081b94f15a82cdcb7219d/6bdcf/i-will-find-you-and-dmca-you.png 315w,
+/static/dde15a64496081b94f15a82cdcb7219d/f058b/i-will-find-you-and-dmca-you.png 630w,
+/static/dde15a64496081b94f15a82cdcb7219d/40601/i-will-find-you-and-dmca-you.png 945w,
+/static/dde15a64496081b94f15a82cdcb7219d/d9199/i-will-find-you-and-dmca-you.png 960w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item></channel></rss>

@@ -1,108 +1,71 @@
 ---
 title: New Beginnings
-date: "2015-05-28T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+date: "2022-07-17T13:10:12.012Z"
+description: Well, Hello World! Here's my blog and I don't really know how to start.
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+Well, Hello World! Here's my blog and I don't really know how to start it.
 
-## On deer horse aboard tritely yikes and much
+I've been thinking about writing one for almost a year; even drafted a few posts, but never got around to completing them or posting them.
+Have you ever had that feeling: that surge of inspiration and determination you get when you decide to pick up something that interests you, but all that fades away as any time you try to do it, it isn't perfect as you'd like it to be?
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+Yes, that's me with most things. And I really need to change. I've decided to use this blog as my **accountability ledger** and to keep trying to get things done instead of trying to get things done the _right way_. Idk how many people are gonna read this, but writing down things in a ranty-conversational format seems like a good reality check for future-me and if reading these blog posts helps someone else, I'd be really happy, even if it's just for an audience of 1.
 
-- This however showed weasel
-- Well uncritical so misled
-  - this is very interesting
-- Goodness much until that fluid owl
+## What made me want to change things?
 
-When she reached the first hills of the **Italic Mountains**, she had a last
-view back on the skyline of her hometown _Bookmarksgrove_, the headline of
-[Alphabet Village](http://google.com) and the subline of her own road, the Line
-Lane. Pityful a rhetoric question ran over her cheek, then she continued her
-way. On her way she met a copy.
+I've been a member of many online communities for the past 2 years and I've noticed how much people have grown and I'm very inspired by people who are trying so many new things in amore public and open atmosphere, working to break into tech, while helping so many people that are just starting out. Many of them have made massive leaps and have moved on to do great things. I want to be like them. I want to be more open to trying new things and learn, grow, and share on a more public platform.
 
-### Overlaid the jeepers uselessly much excluding
+I'm quite introverted and I've always refrained from speaking in public, even though my diction and pronunciation haven't ever been bad. It's more like an 'inertia of confidence': I've never been comfortable about speaking in public, so I've never done it. In the past year, I've been participating not only in speaking at public-speaking events, but also organising and moderating such sessions at [EddieHub](https://www.eddiehub.org/): My favourite open source community. These sessions provided a safe-space where I could engage in conversation with other people without worrying about every little detail that can go wrong.
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-[Longe and Parole](http://google.com) and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.
+Recently, I was selected to participate in the [EddieHub Ambassador programme](https://www.eddiehub.org/ambassador-program), and I'm just delighted by how the program is intended to nudge and support the ambassadors to become more engaged in content creation and community development. All the advice that Eddie, Sara and the other Ambassadors have shared with the has given me a better idea about how I can embark on this journey, and I feel greatful for the extra accountability that I can start complying with.
 
-> Far far away, behind the word mountains, far from the countries Vokalia and
-> Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-> right at the coast of the Semantics, a large language ocean.
+## Things I want to do in what remains of this year (2022)
 
-It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.
+This is certainly not an exhaustive list, and may keep growing in size as time passes, but I think it's a good place to start.
 
-### According a funnily until pre-set or arrogant well cheerful
+- [x] Teach a programming concept to a group of people.
+- [ ] Host a Twitter Space.
+- [ ] Make a Tutorial video or a Casual programming video that is longer than 5 minutes.
+- [ ] Write a blog post on "why working with microprocessors can be interesting for a CS student".
+- [ ] Write a blog post on "why many student communities need an attitude change"
+- [ ] Write a blog post roughly every month.
+- [ ] Write a blog post on my developer-journey so far.
+- [ ] Bring back my old discord bot project - **TearDrops**, and add following features to it:
+  - [ ] Improved currency system, where users are given credits(tears) based on sentiment analysis(sadder messages == more tears)
+  - [ ] A time formatter
+  - [ ] A poll command
+  - [ ] A tear-themed discord-bot-based game
+  - [ ] *Try messing around with linking GPT-J and random messages on discord to get a conversational response from the bot (_maybe_)
+- [ ] Make some good friends at university
+- [ ] Give one in-person talk on any topic
+- [ ] Start working on two of my projects from my project-ideas pile
+- [ ] Make a simple compiler
+- [ ] Start making "projects-for-learning-something" more public
+- [ ] * Research ways to make a plugin that can check blog posts for total plagiarism and link users to original blog post (_maybe_)
+- [ ] Make a portfolio website for myself.
+- [ ] Visit an in-person hackathon or meetup and distribute my rainbow emoji stickers (without feeling embarresed)
+- [ ] Focus a little bit on health - more exercises, fewer donuts, more screen-breaks, fewer 4-hour-work-sessions, more running, fewer dine-outs.
+- [ ] Try participating in more hackathons.
+- [ ] Try to do one or two live-coding events or challenges.
+- [ ] Try to meet more people in-person.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+## Things I want to add to this blog
 
-1.  So baboon this
-2.  Mounted militant weasel gregariously admonishingly straightly hey
-3.  Dear foresaw hungry and much some overhung
-4.  Rash opossum less because less some amid besides yikes jeepers frenetic
-    impassive fruitlessly shut
+- [ ] Categories
+- [ ] Pinned Posts
+- [ ] Previous - Next buttons
+- [ ] Comments Plugin
+- [ ] Light Mode (yes. people that use it exist. it isn't bad. don't judge people if they use it.)
+- [ ] More Accessibility(testing if the blog is accessible, adding audio version for blogs, theme-switcher with accessibly options, image alt tag checker, etc.)
+- [ ] Home page redisign
+- [ ] *A log section: My daily standup (_maybe_)
+- [ ] More Potatoes...
 
-When she reached the first hills of the Italic Mountains, she had a last view
-back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
-Village and the subline of her own road, the Line Lane. Pityful a rhetoric
-question ran over her cheek, then she continued her way. On her way she met a
-copy.
+## Final thoughts
 
-> The copy warned the Little Blind Text, that where it came from it would have
-> been rewritten a thousand times and everything that was left from its origin
-> would be the word "and" and the Little Blind Text should turn around and
-> return to its own, safe country.
+Welp, a new chapter begins. I really hope that this blog adds value to me as well as other people. Special thanks to [Naomi Carrigan](https://www.naomi.lgbt/) for suggesting [Gatsby's blog starter](https://www.gatsbyjs.com/starters/gatsbyjs/gatsby-starter-blog/) when I was stuck between multiple choices for a SSR.
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
-and dragged her into their agency, where they abused her for their projects
-again and again. And if she hasn’t been rewritten, then they are still using
-her. Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.
+If you find any bugs while using the blogs, please make an issue on my [repo](https://github.com/Vyvy-vi/blog). If you have any issues with the content hosted on this website, please email me at [vyom.j@protonmail.com](mailto:vyom.j@protonmail.com).
 
-#### Silent delightfully including because before one up barring chameleon
-
-Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-large language ocean. A small river named Duden flows by their place and
-supplies it with the necessary regelialia. It is a paradisematic country, in
-which roasted parts of sentences fly into your mouth.
-
-Even the all-powerful Pointing has no control about the blind texts it is an
-almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
-advised her not to do so, because there were thousands of bad Commas, wild
-Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.
-
-##### Wherever far wow thus a squirrel raccoon jeez jaguar this from along
-
-She packed her seven versalia, put her initial into the belt and made herself on
-the way. When she reached the first hills of the Italic Mountains, she had a
-last view back on the skyline of her hometown Bookmarksgrove, the headline of
-Alphabet Village and the subline of her own road, the Line Lane. Pityful a
-rhetoric question ran over her cheek, then she continued her way. On her way she
-met a copy.
-
-###### Slapped cozy a that lightheartedly and far
-
-The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word "and" and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.
+If you want to steal the content from this blog, without permission and without attribution...
+![Liam Neeson from Taken saying I will find your post and I will mail a DMCA Takedown Notice](./i-will-find-you-and-dmca-you.png)

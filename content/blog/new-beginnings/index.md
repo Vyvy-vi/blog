@@ -67,5 +67,5 @@ Welp, a new chapter begins. I really hope that this blog adds value to me as wel
 
 If you find any bugs while using the blogs, please make an issue on my [repo](https://github.com/Vyvy-vi/blog). If you have any issues with the content hosted on this website, please email me at [vyom.j@protonmail.com](mailto:vyom.j@protonmail.com).
 
-If you want to steal the content from this blog, without permission and without attribution...
+If you want to steal the content from this blog, without permission and without attribution, to present it as your own...
 ![Liam Neeson from Taken saying I will find your post and I will mail a DMCA Takedown Notice](./i-will-find-you-and-dmca-you.png)

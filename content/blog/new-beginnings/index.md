@@ -13,7 +13,7 @@ Yes, that's me with most things. And I really need to change. I've decided to us
 
 ## What made me want to change things?
 
-I've been a member of many online communities for the past 2 years and I've noticed how much people have grown and I'm very inspired by people who are trying so many new things in amore public and open atmosphere, working to break into tech, while helping so many people that are just starting out. Many of them have made massive leaps and have moved on to do great things. I want to be like them. I want to be more open to trying new things and learn, grow, and share on a more public platform.
+I've been a member of many online communities for the past 2 years and I've noticed how much people have grown and I'm very inspired by people who are trying so many new things in a more public and open atmosphere, working to break into tech, while helping so many people that are just starting out. Many of them have made massive leaps and have moved on to do great things. I want to be like them. I want to be more open to trying new things and learn, grow, and share on a more public platform.
 
 I'm quite introverted and I've always refrained from speaking in public, even though my diction and pronunciation haven't ever been bad. It's more like an 'inertia of confidence': I've never been comfortable about speaking in public, so I've never done it. In the past year, I've been participating not only in speaking at public-speaking events, but also organising and moderating such sessions at [EddieHub](https://www.eddiehub.org/): My favourite open source community. These sessions provided a safe-space where I could engage in conversation with other people without worrying about every little detail that can go wrong.
 

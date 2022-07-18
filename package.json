@@ -26,6 +26,7 @@
     "gatsby-source-filesystem": "^4.13.0",
     "gatsby-transformer-remark": "^5.18.1",
     "gatsby-transformer-sharp": "^4.13.0",
+    "gh-pages": "^4.0.0",
     "markdownlint": "^0.25.1",
     "markdownlint-cli": "^0.31.1",
     "prismjs": "^1.28.0",
@@ -52,6 +53,7 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
+    "deploy": "gatsby build && gh-pages -d public",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "start": "gatsby develop",
     "serve": "gatsby serve",

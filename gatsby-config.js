@@ -6,8 +6,9 @@ module.exports = {
       summary: `who works on creating less toxic learning environments for programmers and likes to develop random things.`,
     },
     description: `A blog posted and maintained by the illustrious internet potato.`,
-    siteUrl: `https://blog.vyvy-vi.com/`,
-    social: {
+	siteUrl: `https://blog.vyvy-vi.com/`,
+    image: `https://i.imgur.com/G9eqT4t.gif`, 
+	social: {
       twitter: `Vyvy_viM`,
       github: `vyvy-vi`,
     },

@@ -2,6 +2,10 @@
 title: New Beginnings
 date: "2022-07-17T13:10:12.012Z"
 description: Well, Hello World! Here's my blog and I don't really know how to start.
+featuredImage: './blank-book.jpg'
+featuredImageAlt: 'An open blank book'
+featuredImageAuthor: 'Dom J'
+featuredImageLink: 'https://www.pexels.com/photo/white-notebook-and-yellow-pencil-45718/'
 ---
 
 Well, Hello World! Here's my blog and I don't really know how to start it.

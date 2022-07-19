@@ -5,10 +5,15 @@ import Bio from "../components/bio";
 import Layout from "../components/layout";
 import Seo from "../components/seo";
 
+import { GatsbyImage, getImage } from "gatsby-plugin-image";
+
 const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark;
   const siteTitle = data.site.siteMetadata?.title || `Title`;
   const { previous, next } = data;
+  console.log(data);
+
+  let featuredImage = getImage(post.frontmatter.featuredImage);
 
   return (
     <Layout data={data} location={location} title={siteTitle}>
@@ -24,6 +29,17 @@ const BlogPostTemplate = ({ data, location }) => {
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
           <p>{post.frontmatter.date}</p>
+          {(featuredImage) ? 
+			<>
+			<GatsbyImage image={featuredImage} alt={post.frontmatter.featuredImageAlt}/>
+			<p> 
+              Photo Credit:{" "}
+        	  <a href={post.frontmatter.featuredImageLink}>
+          	    {post.frontmatter.featuredImageAuthor}
+              </a>
+            </p>
+			</>
+		   : ''}
         </header>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
@@ -34,7 +50,7 @@ const BlogPostTemplate = ({ data, location }) => {
           <Bio />
         </footer>
       </article>
-      <nav className="blog-post-nav">
+      nav className="blog-post-nav">
         <ul
           style={{
             display: `flex`,
@@ -85,6 +101,14 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+		featuredImage {
+		  childImageSharp {
+            gatsbyImageData
+          }
+		}
+		featuredImageAlt
+		featuredImageAuthor
+		featuredImageLink
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {

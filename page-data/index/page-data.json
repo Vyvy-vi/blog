@@ -2,4 +2,4 @@
     "componentChunkName": "component---src-pages-index-js",
     "path": "/",
     "result": {"data":{"site":{"siteMetadata":{"title":"Vy's Blog"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Well, Hello World! Here’s my blog and I don’t really know how to start it. I’ve been thinking about writing one for almost a year; even…","fields":{"slug":"/new-beginnings/"},"frontmatter":{"date":"July 17, 2022","title":"New Beginnings","description":"Well, Hello World! Here's my blog and I don't really know how to start."}}]}},"pageContext":{}},
-    "staticQueryHashes": ["1293913971","2841359383","3257411868","4275815757"]}
+    "staticQueryHashes": ["1293913971","3257411868","3343187749","4275815757"]}
